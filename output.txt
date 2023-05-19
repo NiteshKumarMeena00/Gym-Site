@@ -1,0 +1,1 @@
+the name of the client is ${name},${age} years old,${gender},residing at ${address}.More about him/her: ${more}
